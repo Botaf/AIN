@@ -44,7 +44,7 @@ module.exports = {
                             "- Other bot source: [Replit](https://replit.com/@)\n" +
                             "- Check out My channel: [YouTube](https://www.youtube.com/@Cgaming49)"
                         ],
-                        image: "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&",
+                        image: "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&",
                         color: "#3498db",
                         thumbnail: "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&",
                         author: {
@@ -86,43 +86,43 @@ module.exports = {
                         case 'anime':
                             page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1253714802048499752/1111.gif?ex=6676dc65&is=66758ae5&hm=9bc3f45ed4930d62def2369c6a27fdd65f24df0fdbe557a7ff7d330090eac1bf&";
                             page.color = "#ff66cc";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&";
                             break;
                         case 'basic':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#99ccff";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
+                            page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         case 'fun':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#ffcc00";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
+                            page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         case 'moderation':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#ff0000";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
+                            page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         case 'utility':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#00cc99";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255164064192270418/2861-tool.gif?ex=667c2220&is=667ad0a0&hm=17d2f57af30831b62639fd3d06853a7bc423e1a96b36e5994f432b65aa9f30dc&";
                             break;
                         case 'distube music':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#020202";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255146656882622554/8693-youtube-music.png?ex=667c11ea&is=667ac06a&hm=b81b2b2d294019d1c647069c9fa4f4ed09d4d3403aa8fdae2555ff6c1c88e0a9&";
                             break;
                         case 'setups':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#ff0000";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255164064192270418/2861-tool.gif?ex=667c2220&is=667ad0a0&hm=17d2f57af30831b62639fd3d06853a7bc423e1a96b36e5994f432b65aa9f30dc&";
                             break;
                         default:
@@ -175,32 +175,32 @@ module.exports = {
                         case 'utility':
                             page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
                             page.color = "#00cc99";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255164064192270418/2861-tool.gif?ex=667c2220&is=667ad0a0&hm=17d2f57af30831b62639fd3d06853a7bc423e1a96b36e5994f432b65aa9f30dc&";
                             break;
                         case 'other':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#ff6600";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
+                            page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         case 'hentai':
                             page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1255160148272353373/Rias.gif?ex=667c1e7b&is=667accfb&hm=cd9d086020fd0e062be92126942d1d683c15a878bb699b000d9db9a34447eb6c&";
                             page.color = "#ff99cc";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=667beaa8&is=667a9928&hm=50dfab0b5a63dab7abdc167899c447041b9717016c71e4ffe377a0d7a989d6b5&";
                             break;
                         case 'lavalink':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#ffcc00";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255146656882622554/8693-youtube-music.png?ex=667c11ea&is=667ac06a&hm=b81b2b2d294019d1c647069c9fa4f4ed09d4d3403aa8fdae2555ff6c1c88e0a9&";
                             break;
                         case 'troll':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#cc0000";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191552998342687/All_in_one.png?ex=669cf9a1&is=669ba821&hm=eec8a5ec58467205c61757d7b4450785b31dc739e7351f3e5ce230d7eb6fb1d9&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
+                            page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         default:
                             page.color = "#3498db"; // Set a default color if none matches
