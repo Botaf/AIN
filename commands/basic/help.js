@@ -48,7 +48,7 @@ module.exports = {
                         color: "#3498db",
                         thumbnail: "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&",
                         author: {
-                            name: "ALL IN ONE BOT",
+                            name: "Sachiv Ji",
                             iconURL: "https://cdn.discordapp.com/attachments/1230824451990622299/1253655046835408917/2366-discord-developers.gif?ex=6676a4be&is=6675533e&hm=0b39917ea5a274d222a001017886e3b43725191f671b34efe5349f82be57968c&",
                             url: "https://discord.com/invite/YAvB9Jsj3e"
                         }
@@ -173,7 +173,7 @@ module.exports = {
 
                     switch (category) {
                         case 'utility':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1264191161212342282/GlaceYT_1.png?ex=669cf944&is=669ba7c4&hm=3170787ef8dfcde922996ce7bdbaf909c4a18b3e9d757cee8b020ddc70e12c84&";
+                            page.image = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.color = "#00cc99";
                             page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1255164064192270418/2861-tool.gif?ex=667c2220&is=667ad0a0&hm=17d2f57af30831b62639fd3d06853a7bc423e1a96b36e5994f432b65aa9f30dc&";
@@ -185,7 +185,7 @@ module.exports = {
                             page.author.iconURL = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             break;
                         case 'hentai':
-                            page.image = "https://cdn.discordapp.com/attachments/1246408947708072027/1255160148272353373/Rias.gif?ex=667c1e7b&is=667accfb&hm=cd9d086020fd0e062be92126942d1d683c15a878bb699b000d9db9a34447eb6c&";
+                            page.image = "https://images-ext-1.discordapp.net/external/zlvQp8EAtyiXjfj9WI4bng3kf3L73mg398yNCUk95k0/https/media.tenor.com/eCuQvNuH6gMAAAPo/sukuna-sukuna-smile.mp4";
                             page.color = "#ff99cc";
                             page.thumbnail = "https://media.discordapp.net/attachments/1147166099394265190/1257740714398191737/modverse.jpeg?ex=66aa6bd2&is=66a91a52&hm=23ac2cd42637b92174322872d391b3d48688a98941628bf2c57c894e30ab5d0b&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1230824519220985896/6280-2.gif?ex=667beaa8&is=667a9928&hm=50dfab0b5a63dab7abdc167899c447041b9717016c71e4ffe377a0d7a989d6b5&";
